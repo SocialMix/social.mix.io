@@ -1,0 +1,17 @@
+#!/usr/bin/env node
+
+if (!process.argv[2]) {
+    console.log("Run any standalone sjs script as: run <path to file>");
+    exit(1);
+}
+
+var sweet = require('sweet.js');
+sweet.loadMacro('cspjs');
+
+require(process.argv.pop()).main(function(err, res) {
+  if (err) {
+    throw err;
+  }
+
+  process.exit(0);
+});

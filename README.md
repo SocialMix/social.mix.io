@@ -1,2 +1,2 @@
-# social.mix.io
-A unified interface where all Social Networks can be linked, and maintained all through Social Mix.
+# Social Mix
+A unified web interface where all Social Networks can be linked, and maintained all through a single window stream.
