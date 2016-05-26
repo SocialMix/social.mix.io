@@ -1,5 +1,5 @@
 var _ = require('lodash');
-var debug = require('debug')('kc:config');
+var debug = require('debug')('sm:config');
 
 var ENV_PREFIX = 'kc.';
 
