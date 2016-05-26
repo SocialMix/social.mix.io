@@ -1,7 +1,7 @@
 {
-  "name": "social_mix",
+  "name": "social.mix.io",
   "version": "1.0.0",
-  "description": "A unified web interface where all Social Networks can be linked, and maintained all through a single window stream.",
+  "description": "A unified RESTful web interface where multiple Social Networks can be linked, and maintained in a single app gateway.",
   "main": "app.js",
   "scripts": {
     "start": "node ./bin/www",
@@ -28,12 +28,15 @@
     "Timeline",
     "Photos"
   ],
-  "author": "https://github.com/venkatb4u",
+  "author": [
+    "https://github.com/venkatb4u",
+    "https://github.com/dominic097"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/venkatb4u/Social_Mix/issues"
+    "url": "https://github.com/SocialMix/social.mix.io/issues"
   },
-  "homepage": "https://github.com/venkatb4u/Social_Mix#readme",
+  "homepage": "https://github.com/SocialMix/social.mix.io/blob/develop/README.md",
   "dependencies": {
     "body-parser": "^1.15.1",
     "cookie-parser": "^1.4.1",
