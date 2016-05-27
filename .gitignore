@@ -33,7 +33,7 @@ node_modules
 .node_repl_history
 
 # Confidential Configs
-config/local.json
+config
 
 # Docs
 doc
