@@ -25,7 +25,7 @@ app.use(function(req, res, next) {
 });
 
 // Routes yet to be defined
-var social_feed = require('./routes/feeds.sjs');
+var social_feed = require('./src/routes/feeds.sjs');
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
