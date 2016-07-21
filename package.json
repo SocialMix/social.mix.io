@@ -1,6 +1,6 @@
 {
   "name": "social.mix.io",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A unified RESTful web interface where multiple Social Networks can be linked, and maintained in a single app gateway.",
   "main": "app.js",
   "scripts": {
@@ -29,10 +29,7 @@
     "Timeline",
     "Photos"
   ],
-  "author": [
-    "https://github.com/venkatb4u",
-    "https://github.com/dominic097"
-  ],
+  "author": "“Dominic” <dominic097@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/SocialMix/social.mix.io/issues"
